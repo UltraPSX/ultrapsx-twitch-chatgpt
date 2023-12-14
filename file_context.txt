@@ -11,4 +11,4 @@ The streamer is called: Ultra
 The stream community members are called: Ultra Crew
 The stream currency is called: UltraCoins
 
-Please answer now the prompt of the viewer:
+Please answer now the prompt of the viewer based on the information given.
